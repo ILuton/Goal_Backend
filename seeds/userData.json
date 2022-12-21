@@ -2,11 +2,13 @@
   {
     "name": "Gilbert",
     "email": "gilber@gmail.com",
-    "password": "password12345"
+    "password": "password12345",
+    "stars": 1
   },
   {
     "name": "Amiko",
     "email": "amiko2k20@aol.com",
-    "password": "password12345"
+    "password": "password12345",
+    "stars": 3
   }
 ]

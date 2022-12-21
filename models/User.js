@@ -35,6 +35,11 @@ User.init(
         len: [8],
       },
     },
+    stars: {
+      type: DataTypes.INTEGER,
+      allowNull: true,
+      defaultValue: 0
+    },
   },
   {
     hooks: {
